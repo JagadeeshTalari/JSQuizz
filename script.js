@@ -99,3 +99,5 @@ submitBtn.addEventListener("click", () => {
     }
   }
 });
+
+// Version change
